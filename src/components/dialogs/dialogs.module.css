@@ -1,0 +1,8 @@
+.dialogPoster{
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+}
+.dialogPoster img{
+    height: 95vh;
+}
